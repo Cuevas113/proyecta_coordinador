@@ -1,0 +1,67 @@
+body{
+  style="font-family: 'Mulish', sans-serif;"
+}
+
+
+.navbar-botones{
+  background-color:#515A5A;
+  color:white;
+  border-style:solid none solid none;
+  border-width:1px;
+  border-color: white
+}
+#sidebar-wrapper{
+  background-color:#616A6B;
+  color:white;
+}
+
+.navbar-titulo{
+  color:white;
+  background-color:#3C5368;
+}
+
+.cuerpo{
+  background-color:#E5E7E9;
+}
+
+.navbar{
+  background-color:#2C3E50;
+}
+
+#navbar-suerior a{
+  color:white;
+}
+
+.input-color{
+  background-color:#F2F3F4;
+  border-color:#797D7F;
+  text-transform:uppercase;
+}
+.button-form{
+  color:white;
+  background-color: #515A5A;
+}
+#tableContenido thead{
+  color:white;
+  background-color:#5D6D7E;
+  border-color:#797D7F;
+}
+
+#tableContenido{
+  border-style:solid;
+  border-color:#797D7F;
+  border-width: 1px;
+}
+
+
+
+
+.dataTables_wrapper .dataTables_length select {
+ background-color:#F2F3F4; border-color:#797D7F;
+}
+div.dataTables_wrapper div.dataTables_filter input {
+ margin-left: 0.5em;
+ display: inline-block;
+ width: 350px;
+ background-color:#F2F3F4; border-color:#797D7F;
+}
